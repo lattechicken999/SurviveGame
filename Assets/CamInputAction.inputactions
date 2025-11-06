@@ -1,0 +1,95 @@
+{
+    "version": 1,
+    "name": "CamInputAction",
+    "maps": [
+        {
+            "name": "Cam",
+            "id": "5054686a-9425-4bc2-a533-375bd3e0b288",
+            "actions": [
+                {
+                    "name": "Cam1",
+                    "type": "Button",
+                    "id": "05339c55-0fd5-498a-8110-18de1b13c20e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Cam2",
+                    "type": "Button",
+                    "id": "78a79c23-e1a0-4127-86dc-b0e84053745d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Cam3",
+                    "type": "Button",
+                    "id": "2ddf9c58-3245-4f77-9f61-3274897647c4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Cam4",
+                    "type": "Button",
+                    "id": "b7b386e5-a22c-462f-bbed-d10c1d112555",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6a890137-fb25-466f-ab50-1c422ff6994e",
+                    "path": "<Keyboard>/1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cam1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fc849816-f41f-4bff-80b8-faa50b38c9e6",
+                    "path": "<Keyboard>/2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cam2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "698d8d59-0690-4dee-8006-2a6eb96c1520",
+                    "path": "<Keyboard>/3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cam3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fa2ef42c-3ceb-4215-8a6a-339fa56bea80",
+                    "path": "<Keyboard>/4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cam4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
